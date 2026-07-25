@@ -4,7 +4,7 @@ This is a small repository created to practice the pull request workflow with Cl
 
 ## Purpose
 
-This repo exists so we can pratice openning issues, branches, and pull requests safely.
+This repo exists so we can practice opening issues, branches, and pull requests safely.
 
 ## Getting Started
 
